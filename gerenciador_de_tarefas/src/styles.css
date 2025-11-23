@@ -1,0 +1,88 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: #f3f4f6 ;
+}
+
+.app {
+  max-width: 480px;
+  margin: 40px auto;
+  padding: 24px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 10px 20px rgba(15, 23, 42, 0.15);
+}
+
+.app-title {
+  text-align: center;
+  margin-bottom: 16px;
+  color: #111827;
+}
+
+.adiciona-tarefa {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.input-tarefa {
+  flex: 1;
+  padding: 8px 10px;
+  border-radius: 6px;
+  border: 1px solid #d1d5db;
+}
+
+.btn {
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  background-color: #e5e7eb;
+}
+
+.btn:hover {
+  filter: brightness(0.95);
+}
+
+.btn.ativo {
+  background-color: #18832f;
+  color: white;
+}
+
+.filtros {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.lista-tarefas {
+  list-style: none;
+}
+
+.tarefa {
+  padding: 8px;
+  border-radius: 6px;
+  background-color: #f9fafb;
+  border: 1px solid #e5e7eb;
+  margin-bottom: 8px;
+}
+
+.tarefa-nome {
+  margin-left: 8px;
+}
+
+.tarefa-nome.concluida {
+  text-decoration: line-through;
+  color: #9ca3af;
+}
+
+.mensagem-vazia {
+  text-align: center;
+  color: #6b7280;
+}
