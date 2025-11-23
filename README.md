@@ -54,7 +54,12 @@ src/<br>
 ### 1️⃣ Instale as dependências
 No terminal, dentro da pasta do projeto:
 
-yarn start
+npm start
+
+### 2️⃣ Inicie o servidor de desenvolvimento
+No terminal, dentro da pasta do projeto:
+
+npm start
 
 ---
 
