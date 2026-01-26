@@ -50,7 +50,7 @@ src/<br>
 ---
 
 ## 📦 Como Rodar o Projeto
-
+```bash
 ### 1️⃣ Instale as dependências
 No terminal, dentro da pasta do projeto:
 
@@ -60,7 +60,7 @@ npm start
 No terminal, dentro da pasta do projeto:
 
 npm start
-
+```
 ---
 
 ## 🧠 Aprendizados e Objetivo
