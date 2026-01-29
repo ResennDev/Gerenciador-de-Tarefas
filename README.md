@@ -23,16 +23,16 @@ A aplicação permite adicionar, concluir e filtrar tarefas, trabalhando gerenci
 ---
 
 ## 🧩 Estrutura do Projeto
-src/
-├── components/
-│ ├── AdicionaTarefa.js
-│ ├── ListaDeTarefas.js
-│ └── Tarefa.js
-├── context/
-│ └── TarefasContext.js
-├── App.js
-├── index.js
-└── styles.css
+src/  
+├── components/  
+│ ├── AdicionaTarefa.js  
+│ ├── ListaDeTarefas.js  
+│ └── Tarefa.js  
+├── context/  
+│ └── TarefasContext.js  
+├── App.js  
+├── index.js  
+└── styles.css  
 
 ---
 
