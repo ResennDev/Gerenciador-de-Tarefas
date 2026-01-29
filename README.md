@@ -3,7 +3,6 @@
 ![Status](https://img.shields.io/badge/Status-Estudo-blue)
 ![Stack](https://img.shields.io/badge/Stack-React%20%7C%20JavaScript-informational)
 
----
 
 ## 📋 Descrição do Projeto (PT-BR)
 
@@ -11,7 +10,6 @@ Este projeto é uma aplicação desenvolvida em **React**, com foco educacional,
 
 A aplicação permite adicionar, concluir e filtrar tarefas, trabalhando gerenciamento de estado global, componentização e interatividade de forma prática e intuitiva.
 
----
 
 ## 🚀 Funcionalidades
 ✔ Adicionar tarefas  
@@ -20,7 +18,6 @@ A aplicação permite adicionar, concluir e filtrar tarefas, trabalhando gerenci
 ✔ Estado global compartilhado entre componentes  
 ✔ Interface simples e responsiva  
 
----
 
 ## 🧩 Estrutura do Projeto
 src/  
@@ -34,7 +31,6 @@ src/
 ├── index.js  
 └── styles.css  
 
----
 
 ## 🛠 Tecnologias Utilizadas
 - React 18  
@@ -44,7 +40,6 @@ src/
 - HTML5 / CSS3  
 - Create React App  
 
----
 
 ## 📦 Como Rodar o Projeto
 
@@ -77,14 +72,13 @@ Boas práticas de organização de pastas
 Projeto de estudo desenvolvido por Guilherme Henrique, com foco no aprendizado de React e desenvolvimento frontend.
 Uso livre para fins acadêmicos.
 
----
 
 ## ✨ Autor
 
 Projeto desenvolvido por Guilherme Henrique
 Estudante de desenvolvimento frontend, focado em aprendizado contínuo e construção de portfólio.
 
-```md
+---
 
 ## 📋 Task Manager — Frontend Study Project
 ## 📋 Project Description (EN)
@@ -93,7 +87,6 @@ This project is a React-based application developed for educational purposes, fo
 
 The application allows users to add, complete, and filter tasks, working with global state management, component-based architecture, and interactive UI behavior.
 
----
 
 ## 🚀 Features
 
@@ -103,7 +96,6 @@ The application allows users to add, complete, and filter tasks, working with gl
 ✔ Shared global state across components
 ✔ Simple and responsive interface
 
----
 
 ## 🛠 Technologies Used
 
@@ -119,7 +111,6 @@ HTML5 / CSS3
 
 Create React App
 
----
 
 ## 📦 How to Run
 npm install
@@ -131,7 +122,6 @@ npm start
 
 Study project developed by Guilherme Henrique, focusing on learning React and frontend development.
 
----
 
 ## ✨ Author
 
