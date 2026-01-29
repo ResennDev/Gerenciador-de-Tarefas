@@ -83,9 +83,11 @@ Uso livre para fins acadêmicos.
 
 Projeto desenvolvido por Guilherme Henrique
 Estudante de desenvolvimento frontend, focado em aprendizado contínuo e construção de portfólio.
+
 <br>
-📋 Task Manager — Frontend Study Project
-📋 Project Description (EN)
+
+## 📋 Task Manager — Frontend Study Project
+## 📋 Project Description (EN)
 
 This project is a React-based application developed for educational purposes, focusing on practicing fundamental frontend development concepts.
 
