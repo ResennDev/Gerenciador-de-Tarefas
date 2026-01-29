@@ -115,6 +115,7 @@ Create React App
 
 ## 📦 How to Run
 ```bash
+# Install the dependencies
 npm install
 ```
 
