@@ -65,7 +65,6 @@ Manipulação de eventos
 
 Boas práticas de organização de pastas
 
----
 
 ## 📄 Licença
 
@@ -116,7 +115,7 @@ Create React App
 npm install
 npm start
 
----
+
 
 ## 📄 License
 
@@ -127,3 +126,5 @@ Study project developed by Guilherme Henrique, focusing on learning React and fr
 
 Project developed by Guilherme Henrique
 Frontend development student, focused on continuous learning and portfolio building.
+
+---
