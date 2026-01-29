@@ -49,7 +49,9 @@ npm install
 ```
 
 # Iniciar o servidor de desenvolvimento
+```bash
 npm start
+```
 
 ## 🧠 Aprendizados e Objetivo
 
@@ -112,10 +114,15 @@ Create React App
 
 
 ## 📦 How to Run
+```bash
 npm install
+```
+
+# Start the development server
+
+```bash
 npm start
-
-
+```
 
 ## 📄 License
 
