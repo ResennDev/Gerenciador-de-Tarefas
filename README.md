@@ -1,86 +1,137 @@
-# 📋 Gerenciador de Tarefas
+# 📋 Gerenciador de Tarefas — Projeto de Estudo Frontend
 
-Este projeto é uma aplicação simples desenvolvida em **React**, com o objetivo de praticar conceitos fundamentais como:
+![Status](https://img.shields.io/badge/Status-Estudo-blue)
+![Stack](https://img.shields.io/badge/Stack-React%20%7C%20JavaScript-informational)
 
-- Componentização  
-- Estado Global com **Context + useReducer**  
-- Manipulação de eventos  
-- Renderização condicional  
-- Filtros e controle de exibição  
+---
 
-A aplicação permite **adicionar**, **marcar como concluídas** e **filtrar** tarefas de forma prática e intuitiva.
+## 📋 Descrição do Projeto (PT-BR)
+
+Este projeto é uma aplicação desenvolvida em **React**, com foco educacional, criada para praticar conceitos fundamentais do desenvolvimento frontend moderno.
+
+A aplicação permite adicionar, concluir e filtrar tarefas, trabalhando gerenciamento de estado global, componentização e interatividade de forma prática e intuitiva.
 
 ---
 
 ## 🚀 Funcionalidades
-
-✔ **Adicionar tarefas**  
-✔ **Marcar tarefa como concluída**  
-✔ **Filtrar entre Todas / Concluídas / Pendentes**  
-✔ **Estado global compartilhado entre os componentes**  
-✔ **Interface simples e responsiva**  
+✔ Adicionar tarefas  
+✔ Marcar tarefas como concluídas  
+✔ Filtrar entre **Todas / Concluídas / Pendentes**  
+✔ Estado global compartilhado entre componentes  
+✔ Interface simples e responsiva  
 
 ---
 
 ## 🧩 Estrutura do Projeto
-
-src/<br>
-├── components/<br>
-│ ├── AdicionaTarefa.js<br>
-│ ├── ListaDeTarefas.js<br>
-│ └── Tarefa.js<br>
-├── context/<br>
-│ └── TarefasContext.js<br>
-├── App.js<br>
-├── index.js<br>
+src/
+├── components/
+│ ├── AdicionaTarefa.js
+│ ├── ListaDeTarefas.js
+│ └── Tarefa.js
+├── context/
+│ └── TarefasContext.js
+├── App.js
+├── index.js
 └── styles.css
-
 
 ---
 
 ## 🛠 Tecnologias Utilizadas
-
-- **React 18**
-- **JavaScript (ES6+)**
-- **Context API**
-- **useReducer**
-- **HTML / CSS**
-- **Create React App**
+- React 18  
+- JavaScript (ES6+)  
+- Context API  
+- useReducer  
+- HTML5 / CSS3  
+- Create React App  
 
 ---
 
 ## 📦 Como Rodar o Projeto
+
 ```bash
-### 1️⃣ Instale as dependências
-No terminal, dentro da pasta do projeto:
-
-npm start
-
-### 2️⃣ Inicie o servidor de desenvolvimento
-No terminal, dentro da pasta do projeto:
-
-npm start
+# Instalar as dependências
+npm install
 ```
----
+
+# Iniciar o servidor de desenvolvimento
+npm start
 
 ## 🧠 Aprendizados e Objetivo
 
-Este projeto foi desenvolvido com foco educativo para consolidar conhecimentos sobre:
+Componentização no React
 
-Gerenciamento de estado global
+Gerenciamento de estado global com Context API
 
-Pensamento em componentes
+Uso do hook useReducer
 
-Interatividade no React
+Renderização condicional
 
-Imutabilidade
+Manipulação de eventos
 
 Boas práticas de organização de pastas
 
+---
+
 ## 📄 Licença
 
-Projeto de estudo. Uso livre para fins acadêmicos.
+Projeto de estudo desenvolvido por Guilherme Henrique, com foco no aprendizado de React e desenvolvimento frontend.
+Uso livre para fins acadêmicos.
+
+---
 
 ## ✨ Autor
 
-Projeto desenvolvido por *Guilherme Henrique* como parte de estudos em React e desenvolvimento frontend.
+Projeto desenvolvido por Guilherme Henrique
+Estudante de desenvolvimento frontend, focado em aprendizado contínuo e construção de portfólio.
+<br>
+📋 Task Manager — Frontend Study Project
+📋 Project Description (EN)
+
+This project is a React-based application developed for educational purposes, focusing on practicing fundamental frontend development concepts.
+
+The application allows users to add, complete, and filter tasks, working with global state management, component-based architecture, and interactive UI behavior.
+
+---
+
+## 🚀 Features
+
+✔ Add tasks
+✔ Mark tasks as completed
+✔ Filter between All / Completed / Pending
+✔ Shared global state across components
+✔ Simple and responsive interface
+
+---
+
+## 🛠 Technologies Used
+
+React 18
+
+JavaScript (ES6+)
+
+Context API
+
+useReducer
+
+HTML5 / CSS3
+
+Create React App
+
+---
+
+## 📦 How to Run
+npm install
+npm start
+
+---
+
+## 📄 License
+
+Study project developed by Guilherme Henrique, focusing on learning React and frontend development.
+
+---
+
+## ✨ Author
+
+Project developed by Guilherme Henrique
+Frontend development student, focused on continuous learning and portfolio building.
