@@ -84,7 +84,7 @@ Uso livre para fins acadêmicos.
 Projeto desenvolvido por Guilherme Henrique
 Estudante de desenvolvimento frontend, focado em aprendizado contínuo e construção de portfólio.
 
-<br>
+```md
 
 ## 📋 Task Manager — Frontend Study Project
 ## 📋 Project Description (EN)
