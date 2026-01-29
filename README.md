@@ -90,11 +90,11 @@ The application allows users to add, complete, and filter tasks, working with gl
 
 ## 🚀 Features
 
-✔ Add tasks
-✔ Mark tasks as completed
-✔ Filter between All / Completed / Pending
-✔ Shared global state across components
-✔ Simple and responsive interface
+✔ Add tasks  
+✔ Mark tasks as completed  
+✔ Filter between All / Completed / Pending  
+✔ Shared global state across components  
+✔ Simple and responsive interface  
 
 
 ## 🛠 Technologies Used
